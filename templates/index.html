@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Karnataka GI-Tagged Products</title>
+  <link rel="stylesheet" href="../static/style.css">
+</head>
+<body>
+  <header>
+    <h1>🌾 Karnataka GI-Tagged Products</h1>
+    <div class="search-filter">
+      <input type="text" id="searchBox" placeholder="🔍 Search artisan, product, GI tag...">
+      <select id="filterSelect">
+        <option value="">All Categories</option>
+        <option value="Toys">Toys</option>
+        <option value="Saree">Saree</option>
+        <option value="Food">Food</option>
+      </select>
+      <button id="aiSearchBtn">🤖 Ask AI</button>
+    </div>
+
+    <!-- AI Response Box -->
+    <div id="aiResponse" class="ai-box">
+      <p><em>AI answers will appear here...</em></p>
+    </div>
+  </header>
+
+  <main>
+    <div id="artisanContainer" class="grid"></div>
+  </main>
+
+  <footer>
+    <p>Made with ❤️ for Karnataka Artisans | GI Marketplace 2025</p>
+  </footer>
+
+  <script src="../static/script.js"></script>
+</body>
+</html>
