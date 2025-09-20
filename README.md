@@ -1,4 +1,4 @@
-# GI Marketplace – Karnataka’s GI-Tagged Artisan Platform  
+# AI-POWERED- GI Marketplace – Karnataka’s GI-Tagged Artisan Platform  
 
 ## Description  
 This project is an **AI-powered marketplace** developed for the **Google Cloud GenAI Exchange Hackathon 2025**, conducted by **Hack2Skill**.  
